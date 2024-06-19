@@ -1,6 +1,6 @@
 # 💻 Arturo Solares - Full Stack Developer
 
-![Profile Banner](URL_DE_TU_BANNER) <!-- Opcional: Añade un enlace a tu imagen de banner -->
+![Profile Banner](./img/head.png) <!-- Opcional: Añade un enlace a tu imagen de banner -->
 
 ## Sobre Mí
 
