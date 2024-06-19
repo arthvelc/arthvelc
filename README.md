@@ -16,9 +16,9 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=arthvelc&show_icons=true&theme=radical)
 
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=arthvelc&layout=compact&theme=radical)
 
 ## 📫 Contacto
 
@@ -29,14 +29,14 @@
 
 ## 📝 Proyectos Destacados
 
-### [Saihon - Ecommerce libros](https://www.linkedin.com/in/arturo-solares-527821195/)
-Descripción breve del proyecto, las tecnologías utilizadas y el propósito del proyecto.
+### [Saihon - Ecommerce libros](https://github.com/sam-alen/saihon)
 
-### [Proyecto 2](https://github.com/TU_USUARIO/proyecto2)
-Descripción breve del proyecto, las tecnologías utilizadas y el propósito del proyecto.
 
-### [Proyecto 3](https://github.com/TU_USUARIO/proyecto3)
-Descripción breve del proyecto, las tecnologías utilizadas y el propósito del proyecto.
+### [Fetch API Rick and Morty](https://github.com/TU_USUARIO/proyecto2)
+
+
+<!-- ### [Proyecto 3](https://github.com/TU_USUARIO/proyecto3)
+Descripción breve del proyecto, las tecnologías utilizadas y el propósito del proyecto. -->
 
 ## 🚀 Objetivos Actuales
 
