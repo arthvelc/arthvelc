@@ -32,7 +32,7 @@
 ### [Saihon - Ecommerce libros](https://github.com/sam-alen/saihon)
 
 
-### [Fetch API Rick and Morty](https://github.com/TU_USUARIO/proyecto2)
+### [Fetch API Rick and Morty](https://arthvelc.github.io/rick-and-morty-fetch-api/)
 
 
 <!-- ### [Proyecto 3](https://github.com/TU_USUARIO/proyecto3)
