@@ -1,4 +1,4 @@
-# 💻 Arturo Solares - Full Stack Developer
+
 
 ![Profile Banner](./img/head.png) <!-- Opcional: Añade un enlace a tu imagen de banner -->
 
@@ -23,13 +23,13 @@
 ## 📫 Contacto
 
 - **Email**: asolares.devml@gmail.com
-- **LinkedIn**: [Arturo Solares](https://www.linkedin.com/in/tu-usuario)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
-- **Blog/Website**: [tuwebsite.com](https://tuwebsite.com)
+- **LinkedIn**: [Arturo Solares](https://www.linkedin.com/in/arturo-solares-527821195/)
+
+- **Blog/Website**: [arturosolaresdev.com](https://mywebsite.com)
 
 ## 📝 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/TU_USUARIO/proyecto1)
+### [Saihon - Ecommerce libros](https://www.linkedin.com/in/arturo-solares-527821195/)
 Descripción breve del proyecto, las tecnologías utilizadas y el propósito del proyecto.
 
 ### [Proyecto 2](https://github.com/TU_USUARIO/proyecto2)
@@ -46,8 +46,8 @@ Descripción breve del proyecto, las tecnologías utilizadas y el propósito del
 
 ## 🏆 Logros y Certificaciones
 
-- Certificación en [Tecnología/Curso] por [Institución].
-- [Otro logro relevante].
+<!-- - Certificación en [Tecnología/Curso] por [Institución].
+- [Otro logro relevante]. -->
 
 ---
 
