@@ -9,10 +9,9 @@
 ## 🛠️ Tecnologías y Herramientas
 
 - **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express, Django, SpringBoot
+- **Backend**: Node.js, Django, SpringBoot
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Otros**: Git, GitHub, RESTful APIs, GraphQL
+- **Otros**: Git, GitHub, npm, devTools
 
 ## 📈 Estadísticas de GitHub
 
@@ -25,7 +24,7 @@
 - **Email**: asolares.devml@gmail.com
 - **LinkedIn**: [Arturo Solares](https://www.linkedin.com/in/arturo-solares-527821195/)
 
-- **Blog/Website**: [arturosolaresdev.com](https://mywebsite.com)
+- **Blog/Website**: [arturosolaresdev.com](https://arthvelc.github.io/PortafolioDev/)
 
 ## 📝 Proyectos Destacados
 
